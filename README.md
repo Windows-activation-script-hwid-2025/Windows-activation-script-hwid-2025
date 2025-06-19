@@ -1,0 +1,1 @@
+# Windows-activation-script-hwid-2025
